@@ -1,0 +1,104 @@
+body{
+	background-image: url("crystal_mine_by_tacosauceninja-da2xyrf.jpg");
+	width:100%;
+
+}
+
+h1{
+	padding:50px;
+	margin:20px;
+	color: white;
+	text-align:center;
+}
+
+.rulescontainer{
+	padding: auto;
+	margin: auto;
+	margin-bottom: 10px;
+	text-align: center;
+	width: 500px;
+	height: 200px;
+}
+
+
+.rules{
+	word-wrap:break-word;
+}
+
+.jewelcontainer{
+	background-color: transparent;
+	width:500px;
+	height:75px;
+	padding:auto;
+	margin:auto;
+	margin-top:10px;
+	clear:both;
+
+
+}
+
+.jewel{
+	background-color: transparent;
+	border: none;
+}
+
+.jewels1{
+	float:left;
+
+}
+
+.jewels2{	
+	float:left;
+	
+}
+
+.jewels3{
+	float:left;
+
+}
+
+.jewels4{
+	float:left;
+
+}
+
+
+.randomContainer{
+	position:absolute;
+	margin-top:50px;
+	margin-left:400px;
+	padding:20px;
+	color: white;
+	float:left;
+	text-align: center;
+	font-size:x-large;
+	font-weight: bold;
+}
+
+
+
+.scorecontainer{
+	position:absolute;
+	float:right;
+	text-align: center;
+	color: white;
+	margin-top: 75px;
+	margin-left:600px;
+	font-size:x-large;
+	font-weight: bold;
+}
+
+.wandlcontainer{
+	text-align: center;
+	color: white;
+	font-size:x-large;
+	font-weight: bold;
+	position: relative;
+	float:right;
+	margin-right: 1100px;
+	margin-top: 30px;
+	
+}
+
+
+
